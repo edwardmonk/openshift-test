@@ -4,7 +4,7 @@
  </head>
  <body>
  <?php echo '<h1>Hello World</h2>'; ?> 
-  <i>The quick brown fox jumpled over the lazy dog.</i>
+  <h3>The quick brown fox jumpled over the lazy dog.</h3>
   
 <?php phpinfo(); ?>
 
